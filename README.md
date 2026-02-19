@@ -2,9 +2,9 @@
 
 # SpatialGraph
 
-## Cinematic AR Drawing Engine
+## AR Drawing Engine
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="720" alt="SpatialGraph Demo" style="border-radius: 12px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="720" alt="SpatialGraph" style="border-radius: 12px;" />
 
 ### A High-Performance, Shader-Driven Holographic Augmented Reality Rendering System
 
