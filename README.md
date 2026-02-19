@@ -107,26 +107,12 @@ python main.py
 ## Performance Targets
 
 * 60 FPS real-time rendering
-* GPU-accelerated shader pipeline
+* GPU accelerated shader pipeline
 * Minimal CPU–GPU synchronization overhead
 * Stable OpenGL 3.3 Core Profile context
 
 <br/>
 
----
-
-## Vision
-
-SpatialGraph is designed as a foundation for spatial computing experiments:
-
-* Gesture-based UI systems
-* Neural energy visualizers
-* Spatial drawing tools
-* Interactive holographic interfaces
-
-It is a stepping stone toward full AR engine development in Python.
-
-<br/>
 
 ---
 
