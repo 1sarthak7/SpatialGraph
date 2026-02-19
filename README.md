@@ -4,11 +4,10 @@
 
 ## AR Drawing Engine
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="720" alt="SpatialGraph" style="border-radius: 12px;" />
 
-### A High-Performance, Shader-Driven Holographic Augmented Reality Rendering System
+### A Shader Driven Holographic Augmented Reality Rendering System
 
-Built with precision graphics engineering, SpatialGraph bridges real-time computer vision with GPU-accelerated rendering to create a spatial computing experience directly from your webcam.
+Built with precision graphics engineering, SpatialGraph bridges real-time computer vision with GPU accelerated rendering to create a spatial computing experience directly from your webcam.
 
 <br/>
 
@@ -25,7 +24,7 @@ Built with precision graphics engineering, SpatialGraph bridges real-time comput
 
 SpatialGraph is not a beginner OpenGL script.
 
-It is a modular, multi-pass rendering engine that fuses AI-based hand tracking with modern OpenGL (Core Profile 3.3) to produce volumetric, glowing holographic strokes in real-world space.
+It is a modular, multi pass rendering engine that fuses AI-based hand tracking with modern OpenGL (Core Profile 3.3) to produce volumetric, glowing holographic strokes in real-world space.
 
 Draw dynamic energy ribbons directly into your environment using only your webcam and hand gestures.
 
@@ -43,7 +42,7 @@ Dynamic triangle-strip generation using velocity-based tangent vectors. Stroke t
 
 ### Cinematic Bloom Pipeline
 
-Multi-pass HDR rendering pipeline with ping-pong Gaussian blur across Framebuffer Objects (FBOs). Glow is composited additively for a high-end holographic aesthetic.
+Multi pass HDR rendering pipeline with ping-pong Gaussian blur across Framebuffer Objects (FBOs). Glow is composited additively for a high-end holographic aesthetic.
 
 ### Spatial EMA Filtering
 
