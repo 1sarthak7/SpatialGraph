@@ -102,17 +102,6 @@ python main.py
 
 ---
 
-## Performance Targets
-
-** 60 FPS real-time rendering
-** GPU accelerated shader pipeline
-** Minimal CPU–GPU synchronization overhead
-** Stable OpenGL 3.3 Core Profile context
-
-<br/>
-
-
----
 
 ## Author
 
