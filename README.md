@@ -34,7 +34,6 @@ Draw dynamic energy ribbons directly into your environment using only your webca
 
 ## Cinematic Capabilities
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="560" alt="Bloom Demonstration" style="border-radius: 12px;" />
 
 ### Volumetric Ribbon Generation
 
